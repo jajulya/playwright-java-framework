@@ -1,0 +1,8 @@
+target/
+test-results/
+playwright-report/
+.idea/
+.settings/
+.classpath
+.project
+node_modules/
